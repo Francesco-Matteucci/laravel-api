@@ -1,0 +1,44 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+body {
+    background-color: $body-bg;
+    color: $text-color;
+}
+
+.badge-html {
+    background-color: #e34c26;
+}
+
+.badge-css {
+    background-color: #264de4;
+}
+
+.badge-javascript {
+    background-color: #f7df1e;
+    color: #000;
+}
+
+.badge-vue {
+    background-color: #42b883;
+}
+
+.badge-php {
+    background-color: #8993be;
+}
+
+.badge-laravel {
+    background-color: #ff2d20;
+}
+
+.badge-sql {
+    background-color: #fff;
+    color: #000;
+}
+
